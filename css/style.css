@@ -18,7 +18,7 @@ a {
 }
 
 a:hover {
-  color: #78D1D9;
+  color: #78d1d9;
   text-decoration: none;
 }
 
@@ -80,7 +80,7 @@ a:hover {
 }
 
 .color-b {
-  color: #78D1D9;
+  color: #78d1d9;
 }
 
 .color-d {
@@ -213,7 +213,7 @@ a:hover {
   bottom: -1px;
   width: 100%;
   height: 2px;
-  background-color: #78D1D9;
+  background-color: #78d1d9;
   z-index: 2;
 }
 
@@ -265,7 +265,7 @@ a:hover {
 .pagination-a .pagination .page-link:hover,
 .pagination-a .pagination .page-link:active,
 .pagination-a .pagination .page-link:focus {
-  background-color: #78D1D9;
+  background-color: #78d1d9;
 }
 
 .pagination-a .pagination .page-link span {
@@ -292,11 +292,11 @@ a:hover {
 }
 
 .pagination-a .pagination .page-item.active .page-link {
-  background-color: #78D1D9;
+  background-color: #78d1d9;
 }
 
 .a {
-  color: #78D1D9;
+  color: #78d1d9;
   font-size: 1.3rem;
 }
 
@@ -380,7 +380,7 @@ a:hover {
   position: absolute;
   width: 70px;
   height: 4px;
-  background-color: #78D1D9;
+  background-color: #78d1d9;
   bottom: 20px;
   left: 0;
 }
@@ -452,11 +452,11 @@ a:hover {
 }
 
 .owl-theme .owl-dots .owl-dot:hover span {
-  background-color: #78D1D9;
+  background-color: #78d1d9;
 }
 
 .owl-theme .owl-dots .owl-dot.active span {
-  background-color: #78D1D9;
+  background-color: #78d1d9;
   width: 35px;
 }
 
@@ -506,7 +506,7 @@ a:hover {
   display: inline-block;
   transition: all 0.6s ease-in-out;
   color: #ffffff;
-  background-color: #78D1D9;
+  background-color: #78d1d9;
   opacity: 0.9;
 }
 
@@ -536,7 +536,7 @@ a:hover {
 .back-to-top {
   position: fixed;
   display: none;
-  background: #78D1D9;
+  background: #78d1d9;
   color: #fff;
   width: 44px;
   height: 44px;
@@ -574,7 +574,7 @@ a:hover {
   top: calc(50% - 30px);
   left: calc(50% - 30px);
   border: 6px solid #f2f2f2;
-  border-top: 6px solid #78D1D9;
+  border-top: 6px solid #78d1d9;
   border-radius: 50%;
   width: 60px;
   height: 60px;
@@ -664,7 +664,7 @@ a:hover {
   width: 100%;
   height: 2px;
   z-index: 0;
-  background-color: #78D1D9;
+  background-color: #78d1d9;
   -webkit-transform: scaleX(0);
   transform: scaleX(0);
   -webkit-transform-origin: right;
@@ -701,7 +701,7 @@ a:hover {
 }
 
 .navbar-default.navbar-trans .nav-link:before {
-  background-color: #78D1D9;
+  background-color: #78d1d9;
 }
 
 .navbar-default.navbar-trans .nav-link:hover {
@@ -726,7 +726,7 @@ a:hover {
 }
 
 .navbar-default.navbar-reduce .nav-link:before {
-  background-color: #78D1D9;
+  background-color: #78d1d9;
 }
 
 .navbar-default.navbar-reduce .nav-link:hover {
@@ -746,7 +746,7 @@ a:hover {
 
 .navbar-default .dropdown .dropdown-menu {
   border-top: 0;
-  border-left: 4px solid #78D1D9;
+  border-left: 4px solid #78d1d9;
   border-right: 0;
   border-bottom: 0;
   -webkit-transform: translate3d(0px, -40px, 0px);
@@ -770,13 +770,13 @@ a:hover {
 
 .navbar-default .dropdown .dropdown-menu .dropdown-item:hover {
   background-color: #ffffff;
-  color: #78D1D9;
+  color: #78d1d9;
   transition: all 500ms ease;
 }
 
 .navbar-default .dropdown .dropdown-menu .dropdown-item.active {
   background-color: #ffffff;
-  color: #78D1D9;
+  color: #78d1d9;
 }
 
 .navbar-default .dropdown:hover .dropdown-menu {
@@ -973,11 +973,11 @@ a:hover {
 }
 
 .intro .owl-theme .owl-dots .owl-dot:hover span {
-  background-color: #78D1D9;
+  background-color: #78d1d9;
 }
 
 .intro .owl-theme .owl-dots .owl-dot.active span {
-  background-color: #78D1D9;
+  background-color: #78d1d9;
 }
 
 .intro .intro-item {
@@ -1004,7 +1004,7 @@ a:hover {
 .intro .intro-body .price-a {
   color: #ffffff;
   padding: 1rem 1.5rem;
-  border: 2px solid #78D1D9;
+  border: 2px solid #78d1d9;
   border-radius: 50px;
   text-transform: uppercase;
   letter-spacing: 0.03em;
@@ -1054,7 +1054,7 @@ a:hover {
 }
 
 .intro-single .title-single-box {
-  border-left: 3px solid #78D1D9;
+  border-left: 3px solid #78d1d9;
 }
 
 .intro-single .title-single-box .title-single {
@@ -1161,7 +1161,7 @@ a:hover {
 .price-a {
   color: #ffffff;
   padding: 0.6rem 0.8rem;
-  border: 2px solid #78D1D9;
+  border: 2px solid #78d1d9;
   border-radius: 50px;
   text-transform: uppercase;
   letter-spacing: 0.03em;
@@ -1171,7 +1171,7 @@ a:hover {
   width: 100%;
   position: absolute;
   z-index: 2;
-  background-color: #78D1D9;
+  background-color: #78d1d9;
 }
 
 .card-info {
@@ -1268,7 +1268,7 @@ a:hover {
 
 .card-header-b .category-b {
   font-size: 0.9rem;
-  background-color: #78D1D9;
+  background-color: #78d1d9;
   padding: 0.3rem 0.7rem;
   color: #313131;
   letter-spacing: 0.03em;
@@ -1319,7 +1319,7 @@ a:hover {
 
 .post-content .blockquote {
   padding: 1rem 3rem 1.7rem 3rem;
-  border-left: 3px solid #78D1D9;
+  border-left: 3px solid #78d1d9;
   color: #000000;
 }
 
@@ -1406,7 +1406,7 @@ a:hover {
 
 .card-box-ico {
   padding: 1rem 3rem 1rem 2.5rem;
-  border: 5px solid #78D1D9;
+  border: 5px solid #78d1d9;
 }
 
 .card-box-ico span {
@@ -1467,7 +1467,7 @@ a:hover {
 }
 
 .card-box-d:hover .card-overlay-hover {
-  background-color: #78D1D9;
+  background-color: #78d1d9;
   opacity: 0.9;
 }
 
@@ -1513,7 +1513,7 @@ a:hover {
 }
 
 .sinse-box {
-  background-color: #78D1D9;
+  background-color: #78d1d9;
   padding: 1rem 2rem;
   position: absolute;
   left: 15px;
@@ -1567,7 +1567,7 @@ a:hover {
 
 .testimonial-ico span {
   font-size: 1.8rem;
-  background-color: #78D1D9;
+  background-color: #78d1d9;
   color: #ffffff;
   padding: 0.4rem 1rem;
   border-radius: 50px;
@@ -1624,7 +1624,7 @@ a:hover {
 .section-footer .item-list-a i {
   font-size: 18px;
   padding-right: 4px;
-  color: #78D1D9;
+  color: #78d1d9;
 }
 
 .section-footer .widget-a .w-title-a {
@@ -1651,7 +1651,7 @@ footer .credits {
 ======================================*/
 
 .form-a #sendmessage {
-  color: #78D1D9;
+  color: #78d1d9;
   border: 1px solid #26a356;
   display: none;
   text-align: center;
@@ -1705,7 +1705,7 @@ footer .credits {
 
 .form-a .form-control:focus {
   box-shadow: none;
-  border-color: #78D1D9;
+  border-color: #78d1d9;
 }
 
 /*======================================
@@ -1729,12 +1729,12 @@ footer .credits {
 }
 
 .btn.btn-a:hover {
-  background-color: #78D1D9;
+  background-color: #78d1d9;
   color: #000000;
 }
 
 .btn.btn-b {
-  background-color: #78D1D9;
+  background-color: #78d1d9;
   color: #000000;
 }
 
@@ -1744,7 +1744,7 @@ footer .credits {
 }
 
 .btn.btn-b-n {
-  background-color: #78D1D9;
+  background-color: #78d1d9;
   color: #ffffff;
   border-radius: 0;
 }
@@ -1800,7 +1800,7 @@ footer .credits {
   }
 
   .navbar-default .dropdown .dropdown-menu {
-    border-top: 4px solid #78D1D9;
+    border-top: 4px solid #78d1d9;
     border-left: 0;
     display: block;
     position: absolute;
@@ -2127,12 +2127,14 @@ footer .credits {
 /*======================================
 //--//-->   search section
 ======================================*/
+.batas {
+  margin-bottom: 50px;
+}
 .searchtengah {
   border: none;
-  width: 580px;
+  width: 100%;
 }
 .section {
-  position: relative;
   background-image: url("https://www.helpr.in/images/backgrounds/section-light-bg.png");
   background-position: bottom center;
   background-repeat: repeat-x;
@@ -2151,7 +2153,7 @@ footer .credits {
   background-size: cover;
 }
 .helpr-text {
-  height: 575px;
+  height: 100%;
 }
 .webHomeTitle {
   display: block;
